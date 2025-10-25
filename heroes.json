@@ -13,16 +13,16 @@
       "element": "wind"
     },
     {
-      "id": "75316412-c7b3-4bcc-8049-ccd6d024f240",
-      "name": "игорь",
-      "description": "Ничего",
-      "element": "water"
-    },
-    {
       "id": "61d61430-2f62-4335-9ce4-340215ce6470",
       "name": "Love",
       "description": "Igor",
       "element": "fire"
+    },
+    {
+      "id": "dced5889-f7fe-4c52-bc6c-d74d86da47d7",
+      "name": "Test Redux ",
+      "description": "check devtools",
+      "element": "earth"
     }
   ],
   "filters": [
